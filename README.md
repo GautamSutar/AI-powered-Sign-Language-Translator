@@ -1,5 +1,7 @@
 # AI-Powered Real-Time Sign Language Translator
 
+![Multi_hand_landmarks](assets/img1.png)
+
 **Status: Milestone 1 of 4 (ML Module) Complete.** This repository documents the development of a deep learning project to translate Indian Sign Language (ISL)  in real-time. The foundational feature extraction pipeline is fully functional.
 
 ---
